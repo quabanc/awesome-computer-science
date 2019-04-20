@@ -3,7 +3,7 @@ All different types of curated lists of various fields inside Computer Science.
 
 This list is currently in progress but it is definitely going to be an amazing list with whatever knowledge and information we have gained while pursuing our Computer Engineering from coding tutorials to things about getting international internships.
 
-And yes we have not yet completed our Engineering its expected to be completed by 2020.
+And yes we have not yet completed our Engineering. Its expected to be completed by 2020.
 
 
 ### NLP
