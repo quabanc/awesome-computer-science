@@ -1,9 +1,8 @@
 # awesome-computer-science
-All different types of curated lists of various fields inside Computer Science.
+Curated lists of various fields in Computer Science.
 
-This list is currently in progress but it is definitely going to be an amazing list with whatever knowledge and information we have gained while pursuing our Computer Engineering from coding tutorials to things about getting international internships.
+This list is currently in progress and probably will continue to be as amazing new technologies, projects, articles and tutorials are continuosly being developed and published. These are the important links that we have accumulated while doing our work and we encourage and insist you to contribute to this list. It is open for everyone to contribute to.
 
-And yes we have not yet completed our Engineering. Its expected to be completed by 2020.
 
 
 ### NLP
@@ -13,5 +12,13 @@ And yes we have not yet completed our Engineering. Its expected to be completed 
 * http://www.manythings.org/anki/ (Sentence pair datasets which can be used for Neural Machine Translation)
 
 
-## Blockchain
+### Blockchain
 * https://www.multichain.com/
+
+
+### Competitive Programming
+* https://www.firecode.io/ (Online coding interview preparation platform)
+* http://www.ardendertat.com/2012/01/09/programming-interview-questions/ (Programming interview questions list by Arden Dertat)
+* https://github.com/williamfiset/algorithms (Collections of algorithms)
+* https://www.reddit.com/r/dailyprogrammer (Daily or weekly problems on computer science and competitve coding)
+* http://www.java67.com/2015/07/array-concepts-interview-questions-answers-java.html?m=1 (Java interview questions)
