@@ -24,6 +24,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * http://www.java67.com/2015/07/array-concepts-interview-questions-answers-java.html?m=1 (Java interview questions)
 * https://github.com/sunnypatel165/c2c2018 (Interview process course)
 * https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit?usp=drivesdk (Programming camp syllabus)
+* https://discuss.codechef.com/questions/141708/interactive-problems-and-the-way-to-deal-with-them (Article on how to solve interactive problems)
 
 
 ### Security
