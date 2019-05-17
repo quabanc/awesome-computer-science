@@ -3,7 +3,8 @@ Curated lists of various fields in Computer Science.
 
 This list is currently in progress and probably will continue to be as amazing new technologies, projects, articles and tutorials are continuosly being developed and published. These are the important links that we have accumulated while doing our work and we encourage and insist you to contribute to this list. It is open for everyone to contribute to.
 
-
+### Computer Science
+* https://medium.com/basecs (Exploring the basics of computer science)
 
 ### NLP
 * https://github.com/keon/awesome-nlp
@@ -26,6 +27,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit?usp=drivesdk (Programming camp syllabus)
 * https://discuss.codechef.com/questions/141708/interactive-problems-and-the-way-to-deal-with-them (Article on how to solve interactive problems)
 * https://clist.by/ (List of all past, on-going and upcomming contests from all around the world)
+* https://github.com/yangshun/tech-interview-handbook (list of questions for different topics)
 
 
 ### Security
