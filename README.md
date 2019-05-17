@@ -3,7 +3,7 @@ Curated lists of various fields in Computer Science.
 
 This list is currently in progress and probably will continue to be as amazing new technologies, projects, articles and tutorials are continuosly being developed and published. These are the important links that we have accumulated while doing our work and we encourage and insist you to contribute to this list. It is open for everyone to contribute to.
 
-### Computer Science
+### General Stuff
 * https://medium.com/basecs (Exploring the basics of computer science)
 
 ### NLP
