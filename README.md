@@ -58,6 +58,7 @@ This list is currently in progress and probably will continue to be as amazing n
 
 ### System Design
 * [System Design by Gaurav Sen (Youtube Playlist)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [System design concepts explanation for interview preparation (By Donne Martin on Github)](https://github.com/donnemartin/system-design-primer)
 
 
 ### Cryptography and Cyber Security
