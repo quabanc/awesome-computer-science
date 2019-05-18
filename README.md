@@ -25,7 +25,7 @@ This list is currently in progress and probably will continue to be as amazing n
 
 
 ### Computer Vision and Deep Learning
-* [CS231n: Convolutional Neural Networks for Visual Recognit  ion](http://cs231n.github.io/)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 * [GAN Labs - Awesome animations on GANs](https://poloclub.github.io/ganlab/)
 * [GAN Zoo - List of all the available GANs](https://github.com/hindupuravinash/the-gan-zoo)
 * [PyImageSearch - Good set of tutorials on Computer Vision](https://www.pyimagesearch.com/ )
@@ -69,4 +69,4 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Secure tunnels to localhost (ngrok)](https://ngrok.com/)
 * [devSwag.io - Swag Opportunities for Developers](https://devswag.io/)
 * [Guide on Testing a GitHub Pull Request](https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request)
-* [Git Large File Storage - If there any large files in our project then git uses text pointer so they become lightweight.](https://git-lfs.github.com/)
+* [Git Large File Storage - If there any large files in your project then git uses text pointer so they become lightweight.](https://git-lfs.github.com/)
