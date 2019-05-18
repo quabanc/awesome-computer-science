@@ -14,6 +14,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [CSS229: Machine Learning by Stanford](http://cs229.stanford.edu/)
 * [d2l.ai - Course on Intro to Deep Learning](http://d2l.ai/)
 * [Nice tutorials on PyTorch](https://github.com/MorvanZhou/PyTorch-Tutorial)
+* [mlcourse.ai - A good course on Machine Learning](https://mlcourse.ai/)
 
 
 ### Natural Language Processing and Deep Learning
@@ -24,13 +25,15 @@ This list is currently in progress and probably will continue to be as amazing n
 
 
 ### Computer Vision and Deep Learning
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [CS231n: Convolutional Neural Networks for Visual Recognit  ion](http://cs231n.github.io/)
 * [GAN Labs - Awesome animations on GANs](https://poloclub.github.io/ganlab/)
 * [GAN Zoo - List of all the available GANs](https://github.com/hindupuravinash/the-gan-zoo)
+* [PyImageSearch - Good set of tutorials on Computer Vision](https://www.pyimagesearch.com/ )
 
 
 ### Blockchain
 * [Multi-Chain](https://www.multichain.com/)
+* [CryptoZombies - Learn Ethereum by coding games](https://cryptozombies.io/)
 
 
 ### Competitive Programming
@@ -53,7 +56,7 @@ This list is currently in progress and probably will continue to be as amazing n
 
 ### Cryptography and Cyber Security
 * [Online password cracking time checker](http://lastbit.com/pswcalc.asp)
-* [Awesome videos related to Cryptography (Khan Academy)](https://www.khanacademy.org/computing/computer-science/cryptography)
+* [Awesome videos related to Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 
 ### DevOps
@@ -66,3 +69,4 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Secure tunnels to localhost (ngrok)](https://ngrok.com/)
 * [devSwag.io - Swag Opportunities for Developers](https://devswag.io/)
 * [Guide on Testing a GitHub Pull Request](https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request)
+* [Git Large File Storage - If there any large files in our project then git uses text pointer so they become lightweight.](https://git-lfs.github.com/)
