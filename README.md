@@ -15,6 +15,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [d2l.ai - Course on Intro to Deep Learning](http://d2l.ai/)
 * [Nice tutorials on PyTorch](https://github.com/MorvanZhou/PyTorch-Tutorial)
 * [mlcourse.ai - A good course on Machine Learning](https://mlcourse.ai/)
+* [Playground for Buildig Neural Networks](http://playground.tensorflow.org)
 
 
 ### Natural Language Processing and Deep Learning
@@ -22,6 +23,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Open Parallel Corpus](http://opus.nlpl.eu/)
 * [Stanford CS 224N NLP course](http://web.stanford.edu/class/cs224n/)
 * [Language Sentence Pair Datasets which can be used for Neural Machine Translation](http://www.manythings.org/anki/)
+* [Speaker Diarization](https://github.com/topics/speaker-diarization)
 
 
 ### Computer Vision and Deep Learning
@@ -48,6 +50,8 @@ This list is currently in progress and probably will continue to be as amazing n
 * [List of all past, on-going and upcomming contests from all around the world](https://clist.by/)
 * [List of questions for different topics by Yang Shun](https://github.com/yangshun/tech-interview-handbook)
 * [Algorithms with Rachit (Youtube Channel)](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Visualize Data Structures & Algorithms](https://visualgo.net/en)
+* [Competitive Programming Tutorials on TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
 
 
 ### System Design
@@ -63,10 +67,16 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Katacoda - Useful Tutorials on Docker & Kubernetes with built in Cloud Environment](https://katacoda.com/)
 
 
+### Internships and Summer Programs
+* [Google Summer of Code](http://summerofcode.withgoogle.com/)
+* [Summer Internships Tracker](https://docs.google.com/spreadsheets/d/1DJIO4n2TAKvtkfwoLt6pF3JljZvlaOWzOKKphXfvEUM/edit#gid=891834841)
+* [GSoC 2019 Application experience and guide by Pujan Mehta](https://pujanm.github.io/2019-05-07-gsoc-application-experience/)
+
 ## Other Useful Stuff
 * [[yapf] Google’s python code formatter (Like Black)](https://github.com/google/yapf)
 * [This is awesome if you listen songs on spotify - Open Source](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
 * [Secure tunnels to localhost (ngrok)](https://ngrok.com/)
 * [devSwag.io - Swag Opportunities for Developers](https://devswag.io/)
-* [Guide on Testing a GitHub Pull Request](https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request)
+* [Testing a GitHub Pull Request (StackOverflow)](https://stackoverflow.com/a/55089486/8550731)
 * [Git Large File Storage - If there any large files in your project then git uses text pointer so they become lightweight.](https://git-lfs.github.com/)
+* [Using Virtual Environment with Jupyter Notebook (StackOverflow)](https://stackoverflow.com/a/55065243/8550731)
