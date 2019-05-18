@@ -16,6 +16,8 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Nice tutorials on PyTorch](https://github.com/MorvanZhou/PyTorch-Tutorial)
 * [mlcourse.ai - A good course on Machine Learning](https://mlcourse.ai/)
 * [Playground for Buildig Neural Networks](http://playground.tensorflow.org)
+* [Guide on Back Propogation in Neural Networks (Medium)](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+* [Data Science iPython Notebooks by Donne Martin](https://github.com/donnemartin/data-science-ipython-notebooks#tensor-flow-tutorials)
 
 
 ### Natural Language Processing and Deep Learning
