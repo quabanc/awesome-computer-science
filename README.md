@@ -4,6 +4,11 @@ Curated lists of various fields in Computer Science.
 This list is currently in progress and probably will continue to be as amazing new technologies, projects, articles and tutorials are continuosly being developed and published. These are the important links that we have accumulated while doing our work and we encourage and insist you to contribute to this list. It is open for everyone to contribute to.
 
 
+
+### Command Line
+* [Command Line Tutorial](https://github.com/jlevy/the-art-of-command-line)
+
+
 ### General Stuff
 * [Exploring the basics of computer science](https://medium.com/basecs)
 * [General CS Books, Images and Resources](https://drive.google.com/open?id=1hApCEF55v_IEArArLxxK5Xc2UVb0Qlv1)
