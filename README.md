@@ -20,7 +20,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Open Parallel Corpus](http://opus.nlpl.eu/)
 * [Stanford CS 224N NLP course](http://web.stanford.edu/class/cs224n/)
-* [Sentence pair datasets which can be used for Neural Machine Translation](http://www.manythings.org/anki/)
+* [Language Sentence Pair Datasets which can be used for Neural Machine Translation](http://www.manythings.org/anki/)
 
 
 ### Computer Vision and Deep Learning
@@ -44,16 +44,16 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Article on how to solve interactive problems](https://discuss.codechef.com/questions/141708/interactive-problems-and-the-way-to-deal-with-them)
 * [List of all past, on-going and upcomming contests from all around the world](https://clist.by/)
 * [List of questions for different topics by Yang Shun](https://github.com/yangshun/tech-interview-handbook)
-* [Algorithms with Rachit](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Algorithms with Rachit (Youtube Channel)](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
 
 ### System Design
-* [System Design by Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [System Design by Gaurav Sen (Youtube Playlist)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 
 ### Cryptography and Cyber Security
 * [Online password cracking time checker](http://lastbit.com/pswcalc.asp)
-* [Awesome videos related to Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+* [Awesome videos related to Cryptography (Khan Academy)](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 
 ### DevOps
@@ -61,8 +61,8 @@ This list is currently in progress and probably will continue to be as amazing n
 
 
 ## Other Useful Stuff
-* [Google’s python code formatter (Like Black)](https://github.com/google/yapf)
+* [[yapf] Google’s python code formatter (Like Black)](https://github.com/google/yapf)
 * [This is awesome if you listen songs on spotify - Open Source](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-* [Secure tunnels to localhost](https://ngrok.com/)
+* [Secure tunnels to localhost (ngrok)](https://ngrok.com/)
 * [devSwag.io - Swag Opportunities for Developers](https://devswag.io/)
 * [Guide on Testing a GitHub Pull Request](https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request)
