@@ -3,15 +3,30 @@ Curated lists of various fields in Computer Science.
 
 This list is currently in progress and probably will continue to be as amazing new technologies, projects, articles and tutorials are continuosly being developed and published. These are the important links that we have accumulated while doing our work and we encourage and insist you to contribute to this list. It is open for everyone to contribute to.
 
+
 ### General Stuff
 * [Exploring the basics of computer science](https://medium.com/basecs)
 * [General CS Books, Images and Resources](https://drive.google.com/open?id=1hApCEF55v_IEArArLxxK5Xc2UVb0Qlv1)
 
-### NLP
-* https://github.com/keon/awesome-nlp
-* http://opus.nlpl.eu/
+
+### Machine Learning and Deep Learning
+* [Dynamic Evaluation for PyTorch Models](https://github.com/benkrause/dynamic-evaluation)
+* [CSS229: Machine Learning by Stanford](http://cs229.stanford.edu/)
+* [d2l.ai - Course on Intro to Deep Learning](http://d2l.ai/)
+* [Nice tutorials on PyTorch](https://github.com/MorvanZhou/PyTorch-Tutorial)
+
+
+### Natural Language Processing and Deep Learning
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
+* [Open Parallel Corpus](http://opus.nlpl.eu/)
 * [Stanford CS 224N NLP course](http://web.stanford.edu/class/cs224n/)
 * [Sentence pair datasets which can be used for Neural Machine Translation](http://www.manythings.org/anki/)
+
+
+### Computer Vision and Deep Learning
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [GAN Labs - Awesome animations on GANs](https://poloclub.github.io/ganlab/)
+* [GAN Zoo - List of all the available GANs](https://github.com/hindupuravinash/the-gan-zoo)
 
 
 ### Blockchain
@@ -29,7 +44,25 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Article on how to solve interactive problems](https://discuss.codechef.com/questions/141708/interactive-problems-and-the-way-to-deal-with-them)
 * [List of all past, on-going and upcomming contests from all around the world](https://clist.by/)
 * [List of questions for different topics by Yang Shun](https://github.com/yangshun/tech-interview-handbook)
+* [Algorithms with Rachit](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
 
-### Security
+### System Design
+* [System Design by Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+
+
+### Cryptography and Cyber Security
 * [Online password cracking time checker](http://lastbit.com/pswcalc.asp)
+* [Awesome videos related to Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+
+
+### DevOps
+* [Katacoda - Useful Tutorials on Docker & Kubernetes with built in Cloud Environment](https://katacoda.com/)
+
+
+## Other Useful Stuff
+* [Google’s python code formatter (Like Black)](https://github.com/google/yapf)
+* [This is awesome if you listen songs on spotify - Open Source](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+* [Secure tunnels to localhost](https://ngrok.com/)
+* [devSwag.io - Swag Opportunities for Developers](https://devswag.io/)
+* [Guide on Testing a GitHub Pull Request](https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request)
