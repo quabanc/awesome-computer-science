@@ -1,4 +1,4 @@
-# awesome-computer-science
+# Awesome Computer Science
 Curated lists of various fields in Computer Science.
 
 This list is currently in progress and probably will continue to be as amazing new technologies, projects, articles and tutorials are continuosly being developed and published. These are the important links that we have accumulated while doing our work and we encourage and insist you to contribute to this list. It is open for everyone to contribute to.
@@ -80,6 +80,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Google Summer of Code](http://summerofcode.withgoogle.com/)
 * [Summer Internships Tracker](https://docs.google.com/spreadsheets/d/1DJIO4n2TAKvtkfwoLt6pF3JljZvlaOWzOKKphXfvEUM/edit#gid=891834841)
 * [GSoC 2019 Application experience and guide by Pujan Mehta](https://pujanm.github.io/2019-05-07-gsoc-application-experience/)
+* [GSoC 2019 Application experience -  Ruturaj Gujar](https://ruturaj123.github.io/gsoc/2019/04/23/GSoC-proposal-experience.html)
 
 ## Other Useful Stuff
 * [[yapf] Google’s python code formatter (Like Black)](https://github.com/google/yapf)
