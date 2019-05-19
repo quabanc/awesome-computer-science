@@ -5,16 +5,16 @@ This list is currently in progress and probably will continue to be as amazing n
 
 
 
-### Command Line
+## Command Line
 * [Command Line Tutorial](https://github.com/jlevy/the-art-of-command-line)
 
 
-### General Stuff
+## General Stuff
 * [Exploring the basics of computer science](https://medium.com/basecs)
 * [General CS Books, Images and Resources](https://drive.google.com/open?id=1hApCEF55v_IEArArLxxK5Xc2UVb0Qlv1)
 
 
-### Machine Learning and Deep Learning
+## Machine Learning and Deep Learning
 * [Dynamic Evaluation for PyTorch Models](https://github.com/benkrause/dynamic-evaluation)
 * [CSS229: Machine Learning by Stanford](http://cs229.stanford.edu/)
 * [d2l.ai - Course on Intro to Deep Learning](http://d2l.ai/)
@@ -25,27 +25,29 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Data Science iPython Notebooks by Donne Martin](https://github.com/donnemartin/data-science-ipython-notebooks#tensor-flow-tutorials)
 
 
-### Natural Language Processing and Deep Learning
+## Natural Language Processing and Deep Learning
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Open Parallel Corpus](http://opus.nlpl.eu/)
 * [Stanford CS 224N NLP course](http://web.stanford.edu/class/cs224n/)
 * [Language Sentence Pair Datasets which can be used for Neural Machine Translation](http://www.manythings.org/anki/)
 * [Speaker Diarization](https://github.com/topics/speaker-diarization)
+* [FastBert](https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384)
+* [Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
 
 
-### Computer Vision and Deep Learning
+## Computer Vision and Deep Learning
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 * [GAN Labs - Awesome animations on GANs](https://poloclub.github.io/ganlab/)
 * [GAN Zoo - List of all the available GANs](https://github.com/hindupuravinash/the-gan-zoo)
 * [PyImageSearch - Good set of tutorials on Computer Vision](https://www.pyimagesearch.com/ )
 
 
-### Blockchain
+## Blockchain
 * [Multi-Chain](https://www.multichain.com/)
 * [CryptoZombies - Learn Ethereum by coding games](https://cryptozombies.io/)
 
 
-### Competitive Programming
+## Competitive Programming
 * [Firecode.io - Online coding interview preparation platform](https://www.firecode.io/)
 * [Programming interview questions list by Arden Dertat](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
 * [Collections of algorithms by William Fiset](https://github.com/williamfiset/algorithms)
@@ -62,21 +64,21 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Interactive Coding challenges (By Donne Martin on Github)](https://github.com/donnemartin/interactive-coding-challenges)
 
 
-### System Design
+## System Design
 * [System Design by Gaurav Sen (Youtube Playlist)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [System design concepts explanation for interview preparation (By Donne Martin on Github)](https://github.com/donnemartin/system-design-primer)
 
 
-### Cryptography and Cyber Security
+## Cryptography and Cyber Security
 * [Online password cracking time checker](http://lastbit.com/pswcalc.asp)
 * [Awesome videos related to Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 
-### DevOps
+## DevOps
 * [Katacoda - Useful Tutorials on Docker & Kubernetes with built in Cloud Environment](https://katacoda.com/)
 
 
-### Internships and Summer Programs
+## Internships and Summer Programs
 * [Google Summer of Code](http://summerofcode.withgoogle.com/)
 * [Summer Internships Tracker](https://docs.google.com/spreadsheets/d/1DJIO4n2TAKvtkfwoLt6pF3JljZvlaOWzOKKphXfvEUM/edit#gid=891834841)
 * [GSoC 2019 Application experience and guide by Pujan Mehta](https://pujanm.github.io/2019-05-07-gsoc-application-experience/)
