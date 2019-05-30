@@ -64,6 +64,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Visualize Data Structures & Algorithms](https://visualgo.net/en)
 * [Competitive Programming Tutorials on TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
 * [Interactive Coding challenges (By Donne Martin on Github)](https://github.com/donnemartin/interactive-coding-challenges)
+* [Software Engineering Prep Doc by Google](https://docs.google.com/document/d/1hxnrh7nm24IqtFXsSQqwv4Arx4cxlD9t29cfpKQRRx8/edit)
 
 
 ## System Design
