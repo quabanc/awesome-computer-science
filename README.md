@@ -14,6 +14,7 @@ This list is currently in progress and probably will continue to be as amazing n
 ## General Stuff
 * [Exploring the basics of computer science](https://medium.com/basecs)
 * [General CS Books, Images and Resources](https://drive.google.com/open?id=1hApCEF55v_IEArArLxxK5Xc2UVb0Qlv1)
+* [Basecs Podcasts](https://www.codenewbie.org/basecs)
 
 
 ## Machine Learning and Deep Learning
@@ -35,6 +36,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Speaker Diarization](https://github.com/topics/speaker-diarization)
 * [FastBert](https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384)
 * [Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
+* [spaCy Universe - Collection of many great resources developed with or for spaCy](https://spacy.io/universe)
 
 
 ## Computer Vision and Deep Learning
