@@ -88,6 +88,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Summer Internships Tracker](https://docs.google.com/spreadsheets/d/1DJIO4n2TAKvtkfwoLt6pF3JljZvlaOWzOKKphXfvEUM/edit#gid=891834841)
 * [GSoC 2019 Application experience and guide by Pujan Mehta](https://pujanm.github.io/2019-05-07-gsoc-application-experience/)
 * [GSoC 2019 Application experience -  Ruturaj Gujar](https://ruturaj123.github.io/gsoc/2019/04/23/GSoC-proposal-experience.html)
+* [Winter Internship Experience at a HFT firm](https://medium.com/@dhruvbhagadia/my-winter-internship-experience-at-an-hft-firm-5d650237db8f)
 
 ## Other Useful Stuff
 * [[yapf] Google’s python code formatter (Like Black)](https://github.com/google/yapf)
@@ -97,3 +98,4 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Testing a GitHub Pull Request (StackOverflow)](https://stackoverflow.com/a/55089486/8550731)
 * [Git Large File Storage - If there any large files in your project then git uses text pointer so they become lightweight.](https://git-lfs.github.com/)
 * [Using Virtual Environment with Jupyter Notebook (StackOverflow)](https://stackoverflow.com/a/55065243/8550731)
+* [Levels to a software engineer's progress](http://sijinjoseph.com/programmer-competency-matrix/)
