@@ -52,24 +52,24 @@ This list is currently in progress and probably will continue to be as amazing n
 
 ## Interview preparation
 * [12 Week Interview Preparation Curriculum: Leetcode post](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/preview?pru=AAABcwPkukc*8rVKbI0U13d2lxn8P4xeCA)
-
-## Competitive Programming
+* [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit?usp=drivesdk)
 * [Firecode.io - Online coding interview preparation platform](https://www.firecode.io/)
 * [Programming interview questions list by Arden Dertat](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
-* [Collections of algorithms by William Fiset](https://github.com/williamfiset/algorithms)
-* [Reddit - Daily or weekly problems on computer science and competitve coding](https://www.reddit.com/r/dailyprogrammer)
 * [Java interview questions](http://www.java67.com/2015/07/array-concepts-interview-questions-answers-java.html?m=1)
 * [Interview process course by Sunny Patel](https://github.com/sunnypatel165/c2c2018)
-* [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit?usp=drivesdk)
+* [List of questions for different topics by Yang Shun](https://github.com/yangshun/tech-interview-handbook)
+* [Software Engineering Prep Doc by Google](https://docs.google.com/document/d/1hxnrh7nm24IqtFXsSQqwv4Arx4cxlD9t29cfpKQRRx8/edit)
+
+## Competitive Programming
+
+* [Collections of algorithms by William Fiset](https://github.com/williamfiset/algorithms)
+* [Reddit - Daily or weekly problems on computer science and competitve coding](https://www.reddit.com/r/dailyprogrammer)
 * [Article on how to solve interactive problems](https://discuss.codechef.com/questions/141708/interactive-problems-and-the-way-to-deal-with-them)
 * [List of all past, on-going and upcomming contests from all around the world](https://clist.by/)
-* [List of questions for different topics by Yang Shun](https://github.com/yangshun/tech-interview-handbook)
 * [Algorithms with Rachit (Youtube Channel)](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 * [Visualize Data Structures & Algorithms](https://visualgo.net/en)
 * [Competitive Programming Tutorials on TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
 * [Interactive Coding challenges (By Donne Martin on Github)](https://github.com/donnemartin/interactive-coding-challenges)
-* [Software Engineering Prep Doc by Google](https://docs.google.com/document/d/1hxnrh7nm24IqtFXsSQqwv4Arx4cxlD9t29cfpKQRRx8/edit)
-
 
 ## System Design
 * [System Design by Gaurav Sen (Youtube Playlist)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
