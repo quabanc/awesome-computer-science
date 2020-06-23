@@ -50,6 +50,8 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Multi-Chain](https://www.multichain.com/)
 * [CryptoZombies - Learn Ethereum by coding games](https://cryptozombies.io/)
 
+## Interview preparation
+* [12 Week Interview Preparation Curriculum: Leetcode post](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/preview?pru=AAABcwPkukc*8rVKbI0U13d2lxn8P4xeCA)
 
 ## Competitive Programming
 * [Firecode.io - Online coding interview preparation platform](https://www.firecode.io/)
@@ -88,7 +90,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Summer Internships Tracker](https://docs.google.com/spreadsheets/d/1DJIO4n2TAKvtkfwoLt6pF3JljZvlaOWzOKKphXfvEUM/edit#gid=891834841)
 * [GSoC 2019 Application experience and guide by Pujan Mehta](https://pujanm.github.io/2019-05-07-gsoc-application-experience/)
 * [GSoC 2019 Application experience -  Ruturaj Gujar](https://ruturaj123.github.io/gsoc/2019/04/23/GSoC-proposal-experience.html)
-* [Winter Internship Experience at a HFT firm](https://medium.com/@dhruvbhagadia/my-winter-internship-experience-at-an-hft-firm-5d650237db8f)
+* [Winter Internship Experience at a HFT firm - Dhruv Bhagadia](https://medium.com/@dhruvbhagadia/my-winter-internship-experience-at-an-hft-firm-5d650237db8f)
 
 ## Other Useful Stuff
 * [[yapf] Google’s python code formatter (Like Black)](https://github.com/google/yapf)
