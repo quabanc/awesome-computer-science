@@ -101,3 +101,4 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Git Large File Storage - If there any large files in your project then git uses text pointer so they become lightweight.](https://git-lfs.github.com/)
 * [Using Virtual Environment with Jupyter Notebook (StackOverflow)](https://stackoverflow.com/a/55065243/8550731)
 * [Levels to a software engineer's progress](http://sijinjoseph.com/programmer-competency-matrix/)
+* [Difference in OOP concepts Java vs C++](http://www.eeng.dcu.ie/~ee553/ee402notes/html/ch05s06.html#:~:text=Access%20Specifiers%20when%20Inheriting%20Classes,method%20in%20the%20base%20class)
