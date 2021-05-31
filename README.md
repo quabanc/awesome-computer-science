@@ -78,6 +78,7 @@ This list is currently in progress and probably will continue to be as amazing n
 ## System Design
 * [System Design by Gaurav Sen (Youtube Playlist)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [System design concepts explanation for interview preparation (By Donne Martin on Github)](https://github.com/donnemartin/system-design-primer)
+* [Lock Free Queues - pros/cons and how to implement one](https://www.schneems.com/2017/06/28/how-to-write-a-lock-free-queue/)
 
 
 ## Cryptography and Cyber Security
