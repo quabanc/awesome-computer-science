@@ -16,6 +16,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [General CS Books, Images and Resources](https://drive.google.com/open?id=1hApCEF55v_IEArArLxxK5Xc2UVb0Qlv1)
 * [Basecs Podcasts](https://www.codenewbie.org/basecs)
 * [YouTube playlist on design patterns present in "Head First Design Patterns" book](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+* [Good blog series on design patterns](https://refactoring.guru/design-patterns)
 
 
 ## Machine Learning and Deep Learning
