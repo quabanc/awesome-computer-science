@@ -5,6 +5,22 @@ Curated lists of various fields in Computer Science.
 
 This list is currently in progress and probably will continue to be as amazing new technologies, projects, articles and tutorials are continuosly being developed and published. These are the important links that we have accumulated while doing our work and we encourage and insist you to contribute to this list. It is open for everyone to contribute to.
 
+- [Awesome Computer Science](#awesome-computer-science)
+  * [Command Line](#command-line)
+  * [General Stuff](#general-stuff)
+  * [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
+  * [Natural Language Processing and Deep Learning](#natural-language-processing-and-deep-learning)
+  * [Computer Vision and Deep Learning](#computer-vision-and-deep-learning)
+  * [Blockchain](#blockchain)
+  * [Interview preparation](#interview-preparation)
+  * [Competitive Programming](#competitive-programming)
+  * [C++](#C++)
+  * [System Design](#system-design)
+  * [Cryptography and Cyber Security](#cryptography-and-cyber-security)
+  * [DevOps](#devops)
+  * [Computer Networks](#computer-networks)
+  * [Internships and Summer Programs](#internships-and-summer-programs)
+  * [Other Useful Stuff](#other-useful-stuff)
 
 
 ## Command Line
