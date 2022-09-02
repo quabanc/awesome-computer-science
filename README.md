@@ -78,6 +78,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [List of questions for different topics by Yang Shun](https://github.com/yangshun/tech-interview-handbook)
 * [Software Engineering Prep Doc by Google](https://docs.google.com/document/d/1hxnrh7nm24IqtFXsSQqwv4Arx4cxlD9t29cfpKQRRx8/edit)
 * [How can building a heap be O(n) time complexity? When inserting a node into a heap is O(logn) time, shouldn't building a heap be O(nlogn) time in worst case?](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
+* [O(sqrt(n)) time complexity](https://www.youtube.com/watch?v=9TlHvipP5yA&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=8)
 
 ## Competitive Programming
 
