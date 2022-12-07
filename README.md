@@ -90,6 +90,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Visualize Data Structures & Algorithms](https://visualgo.net/en)
 * [Competitive Programming Tutorials on TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
 * [Interactive Coding challenges (By Donne Martin on Github)](https://github.com/donnemartin/interactive-coding-challenges)
+* [Segment Trees concept - beginner to advanced](https://cp-algorithms.com/data_structures/segment_tree.html)
 
 ## C++
 * [Difference in OOP concepts Java vs C++](http://www.eeng.dcu.ie/~ee553/ee402notes/html/ch05s06.html#:~:text=Access%20Specifiers%20when%20Inheriting%20Classes,method%20in%20the%20base%20class)
