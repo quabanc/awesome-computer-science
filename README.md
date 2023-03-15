@@ -99,6 +99,7 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Friend function and classes in C++](https://www.programiz.com/cpp-programming/friend-function-class#:~:text=When%20a%20class%20is%20made,protected%20data%20of%20class%20A.)
 * [Understanding Memory consumptions](https://www.freecodecamp.org/news/understand-your-programs-memory-92431fa8c6b/)
 * [Race condition vs data race](https://www.avanderlee.com/swift/race-condition-vs-data-race/)
+* [Memory ordering at compile time](https://preshing.com/20120625/memory-ordering-at-compile-time/)
 
 ## System Design
 * [System Design by Gaurav Sen (Youtube Playlist)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
