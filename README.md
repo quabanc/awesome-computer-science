@@ -14,7 +14,7 @@ This list is currently in progress and probably will continue to be as amazing n
   * [Blockchain](#blockchain)
   * [Interview preparation](#interview-preparation)
   * [Competitive Programming](#competitive-programming)
-  * [C++](#C++)
+  * [Cpp](#cpp)
   * [System Design](#system-design)
   * [Cryptography and Cyber Security](#cryptography-and-cyber-security)
   * [DevOps](#devops)
@@ -94,12 +94,13 @@ This list is currently in progress and probably will continue to be as amazing n
 * [Interactive Coding challenges (By Donne Martin on Github)](https://github.com/donnemartin/interactive-coding-challenges)
 * [Segment Trees concept - beginner to advanced](https://cp-algorithms.com/data_structures/segment_tree.html)
 
-## C++
+## cpp
 * [Difference in OOP concepts Java vs C++](http://www.eeng.dcu.ie/~ee553/ee402notes/html/ch05s06.html#:~:text=Access%20Specifiers%20when%20Inheriting%20Classes,method%20in%20the%20base%20class)
 * [Friend function and classes in C++](https://www.programiz.com/cpp-programming/friend-function-class#:~:text=When%20a%20class%20is%20made,protected%20data%20of%20class%20A.)
 * [Understanding Memory consumptions](https://www.freecodecamp.org/news/understand-your-programs-memory-92431fa8c6b/)
 * [Race condition vs data race](https://www.avanderlee.com/swift/race-condition-vs-data-race/)
 * [Memory ordering at compile time](https://preshing.com/20120625/memory-ordering-at-compile-time/)
+* [rvalue and move semantics](https://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners)
 
 ## System Design
 * [System Design by Gaurav Sen (Youtube Playlist)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
